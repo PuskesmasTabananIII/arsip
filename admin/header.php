@@ -123,7 +123,7 @@
                                     <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12">
                                         <div class="header-top-menu tabl-d-n">
                                             <ul class="nav navbar-nav mai-top-nav">
-                                                <li class="nav-item"><a href="#" class="nav-link">Sistem Informasi Arsip Digital</a></li>
+                                                <li class="nav-item"><a href="#" class="nav-link">Sistem Arsip Digital UPTD Puskesmas Tabanan III</a></li>
                                             </ul>
                                         </div>
                                     </div>
