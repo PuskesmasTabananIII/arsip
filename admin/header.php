@@ -159,7 +159,7 @@
                                                         ?>
                                                     </ul>
                                                     <div class="notification-view">
-                                                        <a href="riwayat.php">Lihat semua riwayat</a>
+                                                        <a href="riwayat.php">LIHAT SEMUA RIWAYAT</a>
                                                     </div>
                                                 </div>
                                             </li>
