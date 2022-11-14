@@ -117,8 +117,8 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div style="margin-top: 140px;">
-                            <h1>Sistem Informasi Arsip Digital Puskesmas Tabanan III</h1>
-                            <p>Manajemen file arsip dengan mudah dan cepat.</p>
+                            <h1>Sistem Arsip Digital <br>UPTD Puskesmas Tabanan III<br></h1>
+                            <p>Mengelola file Arsip lebih efisien.</p>
 
                             <br>
                             <br>
