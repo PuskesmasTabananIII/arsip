@@ -96,7 +96,7 @@
                 <a href="index.php">Kembali</a>
             </div>
             <div class="text-center login-footer">
-                <p class="text-muted">Copyright © <?php echo date('Y') ?>. All rights reserved. Sistem Informasi Arsip Digital (SIAD)</p>
+                <p class="text-muted">Copyright © <?php echo date('Y') ?>. All rights reserved. Arsip Digital)</p>
             </div>
         </div>   
     </div>
